@@ -1,0 +1,17 @@
+{
+  "blue-topaz-theme@@color-scheme-options": "color-scheme-options-autumn-topaz",
+  "blue-topaz-theme@@background-settings-workplace-background-image": true,
+  "blue-topaz-theme@@background-image-settings-switch": false,
+  "blue-topaz-theme@@simple-titlebar": false,
+  "blue-topaz-theme@@background-settings-workplace-theme-light": "background-settings-workplace-theme-light-in-the-sky",
+  "blue-topaz-theme@@background-settings-workplace-theme-dark": "background-settings-workplace-theme-dark-night-sky",
+  "blue-topaz-theme@@hide-left-ribbon": false,
+  "blue-topaz-theme@@fix-right-ribbon": false,
+  "blue-topaz-theme@@layout-style-options": "layout-style-options-default",
+  "blue-topaz-theme@@hide-titlebar-text": false,
+  "blue-topaz-theme@@hide-vault-name": false,
+  "blue-topaz-theme@@bt-status-off": true,
+  "blue-topaz-theme@@circular-checkbox": true,
+  "blue-topaz-theme@@muted-activeline-bg": true,
+  "blue-topaz-theme@@image-zoom": false
+}

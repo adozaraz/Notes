@@ -1,0 +1,147 @@
+{
+  "main": {
+    "id": "7c6cd600a50527e5",
+    "type": "split",
+    "children": [
+      {
+        "id": "ff82d1135ddc3bbd",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "ЧММФ/Главная.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "a8f97b8be3327ff8",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "ЧММФ/Метод конечных разностей решения краевых задач математической физики.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "fc53c6c7ccf7f539",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "ЧММФ/Экспериментальное исследование.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "98ec4fb200268c69",
+    "type": "split",
+    "children": [
+      {
+        "id": "40b96c79dc5cdd4a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8c3410d9e1612e51",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "94b990708dfe131e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 355.5
+  },
+  "right": {
+    "id": "72f539c2cba947da",
+    "type": "split",
+    "children": [
+      {
+        "id": "f78985d3c14c28be",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8786791df65d27a7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "ЧММФ/Экспериментальное исследование.md",
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "34acb9319b3850dc",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "ЧММФ/Экспериментальное исследование.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6e2d79dc1d023400",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 220.5,
+    "collapsed": true
+  },
+  "active": "fc53c6c7ccf7f539",
+  "lastOpenFiles": [
+    "ЧММФ/Экспериментальное исследование.md",
+    "ЧММФ/Метод конечных разностей решения краевых задач математической физики.md",
+    "ЧММФ/Алгоритмизация.md",
+    "ЧММФ/Аналитическое исследование схемы.md",
+    "ЧММФ/Дискретизация.md",
+    "ЧММФ/Сеточные функции.md",
+    "ЧММФ/Сетка.md",
+    "ЧММФ/Узлы.md",
+    "ЧММФ/Главная.md",
+    "Английский язык/ПУПР/Слова.md"
+  ]
+}
