@@ -4,28 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "9342bb0be169213b",
+        "id": "71811c273965bea2",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Оптическая информатика/Лабораторные работы/Оптическая информатика. 2 лаба.md",
+            "file": "Зачёт/Основы параллельных вычислений/Главная.md",
             "mode": "source"
           }
-        },
-        "group": "d38e238f648352f1"
-      },
-      {
-        "id": "6080c692fd7eb8d7",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Оптическая информатика/Лабораторные работы/Оптическая информатика. 2 лаба.md",
-            "mode": "preview"
-          }
-        },
-        "group": "d38e238f648352f1"
+        }
       }
     ],
     "direction": "vertical"
@@ -81,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Оптическая информатика/Лабораторные работы/Оптическая информатика. 2 лаба.md",
+                "file": "Зачёт/Основы параллельных вычислений/Главная.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -98,7 +85,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Оптическая информатика/Лабораторные работы/Оптическая информатика. 2 лаба.md",
+                "file": "Зачёт/Основы параллельных вычислений/Главная.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,24 +126,23 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
     "width": 100
   },
-  "active": "9342bb0be169213b",
+  "active": "71811c273965bea2",
   "lastOpenFiles": [
-    "Оптическая информатика/Лабораторные работы/Оптическая информатика. 2 лаба.md",
-    "Английский язык/ПУПР/Слова.md",
-    "Английский язык/ПКПП, ПКУП/Жанры.md",
-    "Английский язык/ПКПП, ПКУП/Учебно-научные тексты.md",
-    "Английский язык/Главная.md",
-    "Английский язык/ПКПП, ПКУП/Предперевод.md",
+    "Зачёт/Основы параллельных вычислений/Главная.md",
     "Главная.md",
-    "Оптическая информатика/Лабораторные работы/Оптическая информатика. 1 лаба.md",
-    "Самоорганизация презентация.md",
-    "Английский язык/Долги.md"
+    "Library Of Ruina/Placeholder 1.md",
+    "Library Of Ruina/Главная.md",
+    "Library Of Ruina/Placeholder 2.md",
+    "Library Of Ruina/Emotion Series/Index.md",
+    "Library Of Ruina/Emotion Series/Betrayed by a Beloved One.md",
+    "Library Of Ruina/Emotion Series/Everlasting Love.md",
+    "Library Of Ruina/Emotion Series/To find a way to be a better person.md",
+    "Library Of Ruina/Emotion Series/Emotion struggles.md"
   ]
 }
