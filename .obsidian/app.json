@@ -8,5 +8,6 @@
   "promptDelete": false,
   "newFileLocation": "current",
   "showUnsupportedFiles": false,
-  "attachmentFolderPath": "Files"
+  "attachmentFolderPath": "Files",
+  "legacyEditor": false
 }

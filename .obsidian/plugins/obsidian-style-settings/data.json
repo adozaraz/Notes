@@ -10,7 +10,7 @@
   "blue-topaz-theme@@layout-style-options": "layout-style-options-default",
   "blue-topaz-theme@@hide-titlebar-text": false,
   "blue-topaz-theme@@hide-vault-name": false,
-  "blue-topaz-theme@@bt-status-off": true,
+  "blue-topaz-theme@@bt-status-off": false,
   "blue-topaz-theme@@circular-checkbox": true,
   "blue-topaz-theme@@muted-activeline-bg": true,
   "blue-topaz-theme@@image-zoom": false
