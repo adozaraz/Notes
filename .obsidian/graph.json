@@ -6,17 +6,53 @@
   "hideUnresolved": false,
   "showOrphans": false,
   "collapse-color-groups": false,
-  "colorGroups": [],
+  "colorGroups": [
+    {
+      "query": "path:\"Оптическая информатика\"",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "path:\"Английский язык\"",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    },
+    {
+      "query": "path:Экзамен",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
+    },
+    {
+      "query": "path:\"Library Of Ruina/Emotion Series\"",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
+      }
+    },
+    {
+      "query": "path:\"Программирование/Структуры данных\"",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
+      }
+    }
+  ],
   "collapse-display": true,
   "showArrow": true,
   "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 1,
-  "collapse-forces": true,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
-  "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 0.7384930490343296,
+  "nodeSizeMultiplier": 1.27055555555556,
+  "lineSizeMultiplier": 1.65166666666667,
+  "collapse-forces": false,
+  "centerStrength": 0.233333333333333,
+  "repelStrength": 5.66666666666667,
+  "linkStrength": 0.55,
+  "linkDistance": 150,
+  "scale": 0.7384930490343357,
   "close": false
 }

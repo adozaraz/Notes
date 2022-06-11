@@ -9,5 +9,6 @@
   "newFileLocation": "current",
   "showUnsupportedFiles": false,
   "attachmentFolderPath": "Files",
-  "legacyEditor": false
+  "legacyEditor": false,
+  "alwaysUpdateLinks": true
 }
